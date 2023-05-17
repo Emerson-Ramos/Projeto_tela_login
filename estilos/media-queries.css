@@ -54,11 +54,7 @@
         position: fixed;
         width: 70%;
         height: 100%;
-       
-        
-       
-       
-    }
+     }
     section#login > div#formulario {
        float: right;
         display: block;
@@ -68,13 +64,15 @@
        
     }
 
-    /* div#formulario > h1{
-        font-size: 2em;
+     div#formulario > h1{
+        font-size: 1em;
     } 
 
     div#formulario > p{
-        font-size: 1.2em;
-    } */
+
+        font-size: 1em;
+        margin: 20px 0px;
+    }  
 
 }
 
